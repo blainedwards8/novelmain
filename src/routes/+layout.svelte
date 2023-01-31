@@ -28,18 +28,18 @@
   </div>
 
   <div
-    class="footer bg-secondary grid grid-cols-3 justify-items-center px-60 py-10 text-white text-xl text-center"
+    class="footer bg-secondary grid lg:grid-cols-3 grid-cols-1 justify-items-center px-60 py-10 text-white md:text-xl text-center"
   >
-    <div>
-      <h2 class="uppercase text-3xl">Location</h2>
+    <div class="mb-5">
+      <h2 class="uppercase sm:text-3xl">Location</h2>
       <div class="mt-5">
         668 E 12225 S, Suite 204<br />
         Draper, UT 84020 Phone: <br />(801) 770-0537
       </div>
     </div>
 
-    <div>
-      <h2 class="uppercase text-3xl">AROUND THE WEB</h2>
+    <div class="mb-5">
+      <h2 class="uppercase sm:text-3xl">AROUND THE WEB</h2>
       <div class="mt-5 flex justify-center gap-5">
         <div><a href="https://www.facebook.com"><FacebookBrand /></a></div>
         <div><a href="https://www.twitter.com"><TwitterBrand /></a></div>
@@ -47,8 +47,8 @@
       </div>
     </div>
 
-    <div>
-      <h2 class="uppercase text-3xl">ABOUT NOVEL LAW</h2>
+    <div class="mb-5">
+      <h2 class="uppercase sm:text-3xl">ABOUT NOVEL LAW</h2>
       <div class="mt-5">
         A law firm that uses a novel approach to the practice of law.
       </div>

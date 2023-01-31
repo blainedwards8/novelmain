@@ -8,3 +8,10 @@
   <div class="text-5xl font-bold">NOVEL LAW GROUP</div>
   <div class="text-xl">CONTACT US</div>
 </div>
+
+<iframe
+  src="https://www.cognitoforms.com/f/jZvVcdUYtESC246IXY5uOA/8"
+  style="border:0;width:100%;"
+  height="513"
+  class="mt-10"
+/>
