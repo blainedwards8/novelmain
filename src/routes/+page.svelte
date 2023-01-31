@@ -12,11 +12,16 @@
 <div class="py-10 md:px-80 text-center">
   <h1 class="text-primary text-5xl mb-4">SERVICES</h1>
   <div class="grid grid-cols-3">
-    <ServiceBox title="Estate Planning" />
-    <ServiceBox title="Business Planning" />
-    <ServiceBox title="Probate" />
-    <ServiceBox title="Trademarks" />
-    <ServiceBox title="Copyrights" />
-    <ServiceBox title="Technology Law" />
+    <ServiceBox title="Estate Planning" url="/services/estate" />
+    <ServiceBox title="Business Planning" url="/services/business" />
+    <ServiceBox title="Probate" url="/services/probate" />
+    <ServiceBox title="Trademarks" url="/services/tm" />
+    <ServiceBox title="Copyrights" url="/services/copyright" />
+    <ServiceBox title="Technology Law" url="/services/technology" />
+  </div>
+
+  <h2 class="text-lg text-secondary">Interested in Learning More</h2>
+  <div class="text-3xl text-secondary uppercase">
+    <a href="/contact">Contact Us</a>
   </div>
 </div>
