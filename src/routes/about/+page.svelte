@@ -1,9 +1,10 @@
 <script>
   //import ServiceBox from "../components/service-box.svelte";
   import NLG from "/src/img/nlg.png";
+  import Header from "../../components/header.svelte";
 </script>
 
-<svelte:head>
+<Header></Header>
 
 <div class="bg-primary p-10 text-white text-center">
   <img src={NLG} alt="main" style="margin:auto; width:200px;" />

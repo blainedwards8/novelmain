@@ -7,6 +7,25 @@
   } from "svelte-awesome-icons";
 </script>
 
+<svelte:head>
+  <title>Novel Law Group</title>
+  <meta name="description" content="A Novel way to do law.">
+  <meta property="og:title" content="Novel Law Group">
+  <meta property="og:url" content="https://www.novel.law">
+  <meta property="og:type" content="">
+  <meta property="og:image" content="https://novelmain.blaineedwards.repl.co/src/img/nlg.png">
+  <meta name="twitter:card" content="summary_large_image">
+
+<!--  Non-Essential, But Recommended -->
+<meta property="og:description" content="A Novel way to do law.">
+<meta property="og:site_name" content="Novel Law Group, PLLC">
+<meta name="twitter:image:alt" content="Novel Law Group">
+
+<!--  Non-Essential, But Required for Analytics -->
+<meta property="fb:app_id" content="your_app_id" />
+<meta name="twitter:site" content="@blainedwards8">
+</svelte:head>
+
 <div class="wrapper font-serif">
   <div>
     <nav class="flex justify-between bg-secondary p-5 text-white">
@@ -40,9 +59,9 @@
     <div class="mb-5">
       <h2 class="uppercase sm:text-3xl">AROUND THE WEB</h2>
       <div class="mt-5 flex justify-center gap-5">
-        <div><a href="https://www.facebook.com"><FacebookBrand /></a></div>
-        <div><a href="https://www.twitter.com"><TwitterBrand /></a></div>
-        <div><a href="https://www.linkedin.com"><LinkedinInBrand /></a></div>
+        <div><a href="https://www.facebook.com/novellawgroup"><FacebookBrand /></a></div>
+        <div><a href="https://twitter.com/blainedwards8"><TwitterBrand /></a></div>
+        <div><a href="https://www.linkedin.com/company/novel-law-group/"><LinkedinInBrand /></a></div>
       </div>
     </div>
 
