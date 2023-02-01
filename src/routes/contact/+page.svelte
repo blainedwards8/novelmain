@@ -9,9 +9,13 @@
   <div class="text-xl">CONTACT US</div>
 </div>
 
-<iframe
-  src="https://www.cognitoforms.com/f/jZvVcdUYtESC246IXY5uOA/8"
-  style="border:0;width:100%;"
-  height="513"
-  class="mt-10"
-/>
+<div>
+  <div class="row justify-content-center">
+    <iframe
+      class="mt-5"
+      src="https://www.cognitoforms.com/f/jZvVcdUYtESC246IXY5uOA/8"
+      style="border:0;width:100%;"
+      height="513"
+    />
+  </div>
+</div>
