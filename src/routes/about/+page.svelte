@@ -50,7 +50,7 @@
           bills, store vital records, and communicate with our legal team.
         </p>
       </div>
-      <div class="col-lg-4 me-auto">
+      <div>
         <h3>Ongoing Relationships</h3>
         <p class="lead">
           When documents are signed at the Novel Law Group, we don't say
