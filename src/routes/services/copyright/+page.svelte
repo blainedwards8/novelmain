@@ -2,8 +2,27 @@
   import ServicePage from "/src/components/service-page.svelte";
 </script>
 
-<ServicePage title="Copyrights" tagline="A novel approach to copyright" />
+<svelte:head>
+  <title>A Novel Approach to Copyrights</title>
+  <meta name="description" content="Our law firm specializes in copyrights, offering comprehensive legal services to protect your creative work. From filing copyright applications to litigating copyright infringement cases, we have the experience and knowledge to help you.">
+  <meta property="og:title" content="A Novel Way to Copyright | Law Firm">
+  <meta property="og:description" content="Protect your creative work with our expert legal services in copyrights. Contact us today to learn more.">
+  <!--<meta property="og:image" content="[Insert image URL]">-->
+  <meta property="og:url" content="https://www.novel.law/copyright">
+  <meta property="og:site_name" content="Law Firm">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="A Novel Way to Copyright | Law Firm">
+  <meta name="twitter:description" content="Protect your creative work with our expert legal services in copyrights. Contact us today to learn more.">
+  <!--<meta name="twitter:image" content="[Insert image URL]">-->
+  <meta name="twitter:url" content="https://www.novel.law/copyright">
 
+
+
+
+</svelte:head>
+
+<ServicePage title="Copyrights" tagline="A novel approach to copyright" />
 <div class="flex">
   <div class="md:px-20 mt-5">
     <ul>
@@ -26,7 +45,7 @@
     </ul>
   </div>
   <div class="md:px-20">
-    <h1 id="copyright">Copyright?</h1>
+    <h1 id="copyright">What are Copyrights?</h1>
     <p>
       Copyright laws exist to protect the rights of authors, artists, and other
       creators of content. Without copyrights, anyone could use or reproduce

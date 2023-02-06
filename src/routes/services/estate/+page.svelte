@@ -7,7 +7,19 @@
   tagline="A novel approach to estate planning"
 />
 
-<div class="md:px-80 py-10">
+<div class="flex">
+  <div class="md:px-20 mt-5">
+    <ul class="side">
+      <li><a href="#whatis">What is Estate Planning?</a></li>
+      <li><a href="#difference">How Novel Law is Different</a></li>
+      <li>
+        <a href="#contactus">Contact Us</a>
+      </li>
+    </ul>
+  </div>
+
+
+<div class="md:px-20" id="whatis">
   <p class="mt-5">
     Estate planning is the process of preparing for the management and
     distribution of your assets after your death. It involves deciding how you
@@ -63,7 +75,8 @@
     You will get additional advantages by completing your estate plan with the
     Novel Law Group, which include:
   </p>
-  <ul>
+  <h3>How is Novel Law Different?</h3>
+  <ul class="content">
     <li>
       Continue asking questions about your estate plan at no additional charge
       (our relationship doesn't end when you sign the documents). Chances are
@@ -89,6 +102,10 @@
       make sure your needs are being met with your estate plan.
     </li>
   </ul>
+  </div>
+  </div>
+  <hr />
+  <div id="contactus"></div>
 
   <h5 class="text-center text-uppercase text-secondary mb-0">
     Ready to get more infomration about estate planning?
@@ -97,17 +114,41 @@
     Fill out the form below to get more information about the estate planning
     process with the Novel Law Group.
   </p>
-  <hr />
   <iframe
     class="mt-5"
     src="https://www.cognitoforms.com/f/jZvVcdUYtESC246IXY5uOA/7"
     style="border:0;width:100%;"
     height="717"
-  />
-</div>
+    />
 
 <style>
   p {
     @apply p-2;
+  }
+
+  h1 {
+    @apply uppercase text-2xl text-center mt-5;
+  }
+  p {
+    @apply mt-4;
+  }
+
+  ul.content {
+    @apply ml-5;
+  }
+
+  ul.content li {
+    @apply mb-5;
+    list-style-type: disc;
+  }
+
+  ul.side {
+    @apply bg-primary rounded p-5 shadow-lg;
+  }
+  ul.side li {
+    @apply mb-5 text-white font-bold;
+  }
+
+  h3 {
   }
 </style>
