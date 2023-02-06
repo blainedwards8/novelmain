@@ -2,6 +2,27 @@
   import ServicePage from "/src/components/service-page.svelte";
 </script>
 
+
+<svelte:head>
+  <title>A Novel Approach to Estate Plan</title>
+  <meta name="description" content="Our estate planning services provide peace of mind for you and your loved ones. Our experts will help you plan and organize your assets, minimize taxes, and ensure that your wishes are respected. Contact us today for a consultation.">
+  <meta property="og:title" content="A Novel Way to Estate Plan | Law Firm">
+  <meta property="og:description" content="Our estate planning services provide peace of mind for you and your loved ones. Our experts will help you plan and organize your assets, minimize taxes, and ensure that your wishes are respected. Contact us today for a consultation.">
+  <!--<meta property="og:image" content="[Insert image URL]">-->
+  <meta property="og:url" content="https://www.novel.law/estate">
+  <meta property="og:site_name" content="Law Firm">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="A Novel Way to Estate Plan | Law Firm">
+  <meta name="twitter:description" content="Our estate planning services provide peace of mind for you and your loved ones. Our experts will help you plan and organize your assets, minimize taxes, and ensure that your wishes are respected. Contact us today for a consultation.">
+  <!--<meta name="twitter:image" content="[Insert image URL]">-->
+  <meta name="twitter:url" content="https://www.novel.law/estate">
+
+
+
+
+</svelte:head>
+
 <ServicePage
   title="Estate Planning"
   tagline="A novel approach to estate planning"
