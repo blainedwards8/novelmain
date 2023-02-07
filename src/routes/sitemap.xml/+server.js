@@ -48,6 +48,21 @@ export async function GET() {
 <lastmod>2023-02-01T17:42:52+00:00</lastmod>
 <priority>0.80</priority>
 </url>
+<url>
+<loc>https://www.novel.law/services/probate/how-to-file-probate-in-utah</loc>
+<lastmod>2023-02-03T17:42:52+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.novel.law/services/probate/what-is-probate</loc>
+<lastmod>2023-02-03T17:42:52+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.novel.law/services/probate/how-can-i-avoid-probate</loc>
+<lastmod>2023-02-03T17:42:52+00:00</lastmod>
+<priority>0.80</priority>
+</url>
 </urlset>`.trim(),
     {
       headers: {
