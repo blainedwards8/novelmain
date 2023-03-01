@@ -4,7 +4,33 @@
   import Header from "../../components/header.svelte";
 </script>
 
-<Header></Header>
+<svelte:head>
+  <title>Novel Law Group - About Us</title>
+  <meta
+    name="description"
+    content="The Novel Law Group takes a novel approach to the practice of law by using technology to lower costs, speed up deliveries, and increase quality of work."
+  />
+  <meta property="og:title" content="Novel Law Group - About Us" />
+  <meta
+    property="og:description"
+    content="The Novel Law Group takes a novel approach to the practice of law by using technology to lower costs, speed up deliveries, and increase quality of work."
+  />
+  <meta property="og:image" content="https://www.novel.law/img/nlg.png" />
+  <meta property="og:url" content="https://www.novel.law/" />
+  <meta property="og:site_name" content="Novel Law Group" />
+  <meta property="og:type" content="website" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Novel Law Group - About Us" />
+  <meta
+    name="twitter:description"
+    content="The Novel Law Group takes a novel approach to the practice of law by using technology to lower costs, speed up deliveries, and increase quality of work."
+  />
+  <meta name="twitter:image" content="https://www.novel.law/img/nlg.png" />
+  <meta name="twitter:site" content="@novellawgroup" />
+  <meta name="twitter:creator" content="@novellawgroup" />
+</svelte:head>
+
+<Header />
 
 <div class="bg-primary p-10 text-white text-center">
   <img src={NLG} alt="main" style="margin:auto; width:200px;" />
