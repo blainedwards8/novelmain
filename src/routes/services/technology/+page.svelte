@@ -32,8 +32,9 @@
 
 <ul>
   <li>
-    <strong>Intellectual Property:</strong> We can help you protect your intellectual
-    property, including trademarks, patents, and copyrights. Our services include
+    <strong>Intellectual Property:</strong> We can help you protect your
+    intellectual property, including <a href="/services/tm">trademarks</a>, and
+    <a href="/services/copyright">copyrights</a>. Our services include
     conducting searches, filing applications, and enforcing your rights.
   </li>
 
