@@ -27,4 +27,58 @@
   tagline="We are built on novel technology"
 />
 
-<div />
+<h2>Technology Law Services</h2>
+<p>Our technology law services include:</p>
+
+<ul>
+  <li>
+    <strong>Intellectual Property:</strong> We can help you protect your intellectual
+    property, including trademarks, patents, and copyrights. Our services include
+    conducting searches, filing applications, and enforcing your rights.
+  </li>
+
+  <li>
+    <strong>Privacy Law:</strong> We can assist you with complying with data privacy
+    laws and regulations, drafting privacy policies, and handling data breaches.
+  </li>
+
+  <li>
+    <strong>Blockchain Technologies:</strong> We have experience working with blockchain
+    technologies and can advise you on legal issues related to cryptocurrencies,
+    smart contracts, and blockchain-based applications.
+  </li>
+</ul>
+
+<h2>Why Choose Us</h2>
+<p>
+  Choosing a law firm to represent your business is an important decision. Here
+  are some reasons to choose us:
+</p>
+
+<ul>
+  <li>
+    <strong>Experience:</strong> Our lawyers have years of experience in technology
+    law and are knowledgeable about the latest legal developments in the field.
+  </li>
+
+  <li>
+    <strong>Personalized Service:</strong> We take the time to understand our clients'
+    unique needs and tailor our services to meet those needs.
+  </li>
+
+  <li>
+    <strong>Efficient and Effective:</strong> We strive to provide our services efficiently
+    and effectively, so our clients can focus on growing their business.
+  </li>
+
+  <li>
+    <strong>Cost-Effective:</strong> We offer competitive pricing and work with our
+    clients to find cost-effective solutions to their legal needs.
+  </li>
+</ul>
+
+<h2>Contact Us</h2>
+<p>
+  If you're interested in learning more about our technology law services,
+  please contact us today to schedule a consultation.
+</p>
