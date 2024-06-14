@@ -1,5 +1,6 @@
 <script>
   import ServicePage from "/src/components/service-page.svelte";
+  import ServiceBox from "../../../components/service-box.svelte";
 </script>
 
 <svelte:head>
@@ -45,6 +46,13 @@
     </ul>
   </div>
   <div class="md:px-20">
+    <div style="padding-top:20px;">
+      <div class="grid md:grid-cols-3 sm:grid-cols-1">
+        <ServiceBox title="Getting a copyright" url="/services/copyright/filing"></ServiceBox>
+        <ServiceBox title="Infringement" url="/services/copyright/infringement"></ServiceBox>
+        <ServiceBox title="DCMA Requests" url="/services/copyright/dcma"></ServiceBox>
+      </div>
+    </div>
     <h1 id="copyright">What are Copyrights?</h1>
     <p>
       Copyright laws exist to protect the rights of authors, artists, and other
@@ -87,6 +95,11 @@
       experience. At our law firm, we understand the gravity of the situation,
       and are committed to providing you with the best possible legal advice and
       representation.
+    </p>
+    <p>
+      There are two ways that a copyright infringment claim can be started against a potential infringer.
+      The regular method is through Federal District Court. The only method is using the <a href="/services/copyright/ccb">Copyright Claims Board</a>, which is
+      similar to court but has limits on the amount of damages that can be asked for.
     </p>
     <p>
       We will help you navigate the legal process, and provide you with the

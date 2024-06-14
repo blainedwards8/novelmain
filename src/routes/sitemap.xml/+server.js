@@ -63,6 +63,11 @@ export async function GET() {
 <lastmod>2023-03-01T17:42:52+00:00</lastmod>
 <priority>0.80</priority>
 </url>
+<url>
+<loc>https://www.novel.law/services/copyright/ccb</loc>
+<lastmod>2023-03-01T17:42:52+00:00</lastmod>
+<priority>0.80</priority>
+</url>
 </urlset>`.trim(),
     {
       headers: {

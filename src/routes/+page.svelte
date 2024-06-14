@@ -50,9 +50,6 @@
 <div class="py-10 md:px-40 text-center">
   <h1 class="text-primary text-5xl mb-4">SERVICES</h1>
   <div class="grid md:grid-cols-3 sm:grid-cols-1">
-    <ServiceBox title="Estate Planning" url="/services/estate" />
-    <ServiceBox title="Business Planning" url="/services/business" />
-    <ServiceBox title="Probate" url="/services/probate" />
     <ServiceBox title="Trademarks" url="/services/tm" />
     <ServiceBox title="Copyrights" url="/services/copyright" />
     <ServiceBox title="Technology Law" url="/services/technology" />
